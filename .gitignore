@@ -1,0 +1,5 @@
+data_frames
+__pycache__
+result.csv
+.ipynb_checkpoints
+env
